@@ -5,6 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sibergold" alt="sibergold" /></a> </p>
 
+- 🚀 I’m driven by **my enthusiasm for problem-solving and overcoming challenges to deliver impactful and efficient solutions**
+
+- 🌱 Passionate about coding, **I'm constantly learning and mastering new technologies to expand my skill set.**
+
+- 🔮 I develop projects using **React, JavaScript, and React Native, combining creativity with technical expertise.**
+
+- ✨ I love learning **new things and believe in continuous growth within the software field.**
+
 - 👨‍💻 All of my projects are available at [https://github.com/sibergold?tab=repositories](https://github.com/sibergold?tab=repositories)
 
 - 📫 How to reach me **omermeric.dev@gmail.com**
